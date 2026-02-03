@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+**/.vs/
+.vscode/
+
+# Build outputs
+Debug/
+Release/
+x64/
+bin/
+obj/
+**/Debug/
+**/Release/
+**/x64/
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.log
+*.cache
+
+# OS junk
+Thumbs.db
+.DS_Store
